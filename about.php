@@ -11,13 +11,11 @@
 
 <div class="container" id="main-content">
 	<h2>About Us</h2>
-	<p>"About Us" conten goes here.  I'll stick with teh "lorem ipsum" as well, so that the footer isn't immediately following this text.</p>
+	<p>Schema47 began as a self directed research group in 2015.
 
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</p>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Taking an anti-disciplinary stance, we came together to develop frameworks, experiences and technologies which sit outside the traditional categories of art and science, to explore the nature of the world and our participation in it. In addition to our professional, creative and academic training, our discussions are informed by our unique lived experience and cultural backgrounds.
+
+Through an ongoing collaboration we also hope to learn how scientists and artists can collaborate to enhance their own research projects and practices, questioning what kind of intellectual, practical and theoretical tools we can share.
 	</p>
 </div>
 

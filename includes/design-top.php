@@ -1,3 +1,5 @@
 <div class="jumbotron">
-	<h1>Hello there!</h1>
+	<h1>Music of our lives</h1>
+	<button>Click to play</button>
+
 </div>
